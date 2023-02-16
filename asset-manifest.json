@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Eating-out-on-a-diet/static/css/main.d206b31c.css",
-    "main.js": "/Eating-out-on-a-diet/static/js/main.837797f4.js",
+    "main.css": "/Eating-out-on-a-diet/static/css/main.6bf32a67.css",
+    "main.js": "/Eating-out-on-a-diet/static/js/main.6614497d.js",
     "static/js/787.ec704a7a.chunk.js": "/Eating-out-on-a-diet/static/js/787.ec704a7a.chunk.js",
     "index.html": "/Eating-out-on-a-diet/index.html",
-    "main.d206b31c.css.map": "/Eating-out-on-a-diet/static/css/main.d206b31c.css.map",
-    "main.837797f4.js.map": "/Eating-out-on-a-diet/static/js/main.837797f4.js.map",
+    "main.6bf32a67.css.map": "/Eating-out-on-a-diet/static/css/main.6bf32a67.css.map",
+    "main.6614497d.js.map": "/Eating-out-on-a-diet/static/js/main.6614497d.js.map",
     "787.ec704a7a.chunk.js.map": "/Eating-out-on-a-diet/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d206b31c.css",
-    "static/js/main.837797f4.js"
+    "static/css/main.6bf32a67.css",
+    "static/js/main.6614497d.js"
   ]
 }
